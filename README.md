@@ -1,6 +1,8 @@
 # MeanCourse
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.1.
+
+This project is a school bulletin board web application based on MEAN((MongoDB, Express, Angular, NodeJs) stack.
+The website is : [bulletin board](https://github.com/angular/angular-cli)
 
 ## Development server
 
