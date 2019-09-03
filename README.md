@@ -2,7 +2,7 @@
 
 
 This project is a school bulletin board web application based on MEAN((MongoDB, Express, Angular, NodeJs) stack.
-The website is : [bulletin board](https://github.com/angular/angular-cli)
+The website is : [bulletin board](http://bulletin-board-application.s3-website.us-east-2.amazonaws.com/)
 
 ## Development server
 
