@@ -8,7 +8,7 @@ This project is a web application that students can post activities. It contains
 
 ## Build
 
-Add this folder to your workspace and run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+Add the project to your workspace and run `ng build` to build it. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
 
 ## Development server
