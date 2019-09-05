@@ -3,7 +3,7 @@ This project is a school bulletin board web application based on MEAN((MongoDB, 
 
 
 ## Indroduction
-This project is a full-stack web application, allowing students to post activities. It contains a lot of cool functions like image upload, data pagination, authentication, authorization (Authorize users to only manipulate their own posts) and error handling. It has been deployed on AWS and the website is [Bulletin Board](http://bulletin-board-application.s3-website.us-east-2.amazonaws.com/).
+This project is a full-stack web application, allowing students to post activities. It contains a lot of cool functions like image upload, data pagination, authentication, authorization (authorize users to only manipulate their own posts) and error handling. It has been deployed on AWS and the website is [Bulletin Board](http://bulletin-board-application.s3-website.us-east-2.amazonaws.com/).
 
 
 ## Build
